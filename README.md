@@ -1,3 +1,4 @@
 # spanishpolice.github.io
-Videos of the Repression lived in Catalonia by the Spanish Police in the Referendum of October 1, 2017
+
+Example of static video gallery intended to do divulgation with small resources
 https://spanishpolice.github.io
