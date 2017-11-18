@@ -3,7 +3,7 @@
 Example of static video gallery intended to do divulgation with small resources
 - https://spanishpolice.github.io
 
-All our projects
+Related projects
 - https://spanishpolice.github.io
 - https://spanishradicals.github.io
 - https://spanishgurtelcase.github.io
