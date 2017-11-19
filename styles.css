@@ -41,6 +41,11 @@ body {
     border-radius: 4px 4px 0 0;
 }
 
+div.thumbnail a img {
+    height: 255px;
+    width: 340px;
+}
+
 .tz-gallery .caption{
     padding: 26px 30px;
     text-align: center;
