@@ -9,3 +9,4 @@ Related projects
 - https://spanishgurtelcase.github.io
 - https://spanishindoctrination.github.io
 - https://spanishfakenews.github.io
+- https://spanishcleaners.github.io
