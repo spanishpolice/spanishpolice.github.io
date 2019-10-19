@@ -14,4 +14,5 @@ Related projects
 - https://spanishgurtelcase.github.io
 - https://spanishmanada.github.io
 - https://spanishlamppost.github.io
+- https://catalanrepression.github.io
 - https://trifacho.github.io
